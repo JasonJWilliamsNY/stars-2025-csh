@@ -1,0 +1,13 @@
+.wy-table-responsive table td, .wy-table-responsive table th {
+    white-space: normal !important;
+}
+
+.wy-table-responsive {
+    overflow : visible !important;
+}
+
+/* For the Read the Docs theme */
+.wy-nav-content {
+  max-width:1200px;  /* You can increase this */
+  margin: 0 auto;
+}
